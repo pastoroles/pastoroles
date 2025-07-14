@@ -47,6 +47,10 @@
 
 ###
 
+<img align="left" height="147" src="https://img.freepik.com/vector-gratis/computadora-retro-degradado-lineal_52683-60216.jpg?semt=ais_hybrid&w=740"  />
+
+###
+
 <div align="right">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pastoroles&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
