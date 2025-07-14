@@ -14,15 +14,6 @@
   <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="arduino logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
-</div>
-
-###
-
-<h2 align="left">📚 Studying</h2>
-
-###
-
-<div align="left">
   <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
